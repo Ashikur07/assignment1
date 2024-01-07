@@ -25,3 +25,40 @@ header h1 {
     width: 600px;
     margin: 0px auto;
 }
+
+
+/* main section style */
+
+.all-categories {
+    text-align: center;
+    font-family: Inter;
+    margin-top: 120px;
+
+}
+
+.all-categories img {
+    width: 800px;
+}
+
+.all-categories h1 {
+    color: #F00;
+    font-size: 88px;
+    font-weight: 700;
+    margin-bottom: 48px;
+}
+
+.all-categories p {
+    color: #F00;
+    font-size: 24px;
+    font-weight: 500;
+    margin-top: 0px;
+    margin-bottom: 16px;
+}
+
+.all-categories h3 {
+    margin-top: 0px;
+    color: #070211;
+    font-size: 48px;
+    font-weight: 700;
+
+}
