@@ -338,7 +338,7 @@ header h1 {
     font-family: Inter;
     font-size: 18px;
     font-weight: 400;
-    border-radius:50px 0px 0px 50px;
+    border-radius: 50px 0px 0px 50px;
 }
 
 .subscribe-section button {
@@ -352,4 +352,68 @@ header h1 {
     background: #F00;
     padding: 19px 56px 25px 56px;
 
+}
+
+
+/* footer section style */
+
+footer {
+    height: 609px;
+    font-family: Inter;
+    background: #070211;
+    color: #FFF;
+
+}
+
+.footer-1st-section {
+    display: flex;
+    align-items: center;
+    gap: 559px;
+}
+
+.footer-1st-section div {
+    padding: 120px 0px 40px 140px;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 40px;
+
+
+}
+
+.footer-1st-section p {
+    padding: 120px 0px 40px 0px;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 40px;
+
+}
+
+.hr-1,
+.hr-2 {
+    width: 1220px;
+    height: 1px;
+    margin: 0px auto;
+    background: rgba(255, 255, 255, 0.15);
+}
+
+.footer-2st-section {
+    text-align: center;
+}
+
+.footer-2st-section img {
+    width: 64px;
+    margin: 48px 24px 48px 0px;
+}
+
+.footer-3rd-section {
+    width: 1220px;
+    margin: 0px auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer-3rd-section p {
+    font-size: 24px;
+    font-weight: 500;
+    padding-top: 10px;
 }
