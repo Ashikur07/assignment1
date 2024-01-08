@@ -232,6 +232,7 @@ header h1 {
 
 .holiday-sels {
     text-align: center;
+    margin-top: 180px;
 }
 
 .holiday-sels h4 {
@@ -456,7 +457,6 @@ footer {
     font-weight: 500;
     line-height: 40px;
 
-
 }
 
 .footer-1st-section p {
@@ -466,6 +466,13 @@ footer {
     line-height: 40px;
 
 }
+
+.footer-1st-section p a{
+    text-decoration: none;
+    color: #FFF;
+}
+
+
 
 .hr-1,
 .hr-2 {
